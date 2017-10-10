@@ -7,23 +7,23 @@ After you create a PushTopic and subscribe to it, you’ll get notifications whe
 
 1. From your management settings for custom objects, if you’re using Salesforce Classic, click New Custom Object, or if you’re using   Lightning Experience, select Create | Custom Object. 
 
-Define the custom object.
+     Define the custom object.
 
-In the Label field, type Invoice Statement.
+     In the Label field, type Invoice Statement.
 
-In the Plural Label field, type Invoice Statements.
+     In the Plural Label field, type Invoice Statements.
 
-Select Starts with vowel sound.
+     Select Starts with vowel sound.
 
-In the Record Name field , type Invoice Number.
+     In the Record Name field , type Invoice Number.
 
-In the Data Type field , select Auto Number. 
+     In the Data Type field , select Auto Number. 
 
-In the Display Format field, type INV-{0000}.
+     In the Display Format field, type INV-{0000}.
 
-In the Starting Number field, type 1.
+     In the Starting Number field, type 1.
 
-Click Save.
+     Click Save.
 
 Add a Status field.
 Scroll down to the Custom Fields & Relationships related list and click New.
